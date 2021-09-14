@@ -1,0 +1,16 @@
+{
+  "name": "clash-game",
+  "version": "1.0.0",
+  "description": "Game built with Vue.js",
+  "main": "index.js",
+  "homepage": "https://websavva.github.io/vue-clash-game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "author": "WebSavva",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
